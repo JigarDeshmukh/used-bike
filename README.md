@@ -1,6 +1,8 @@
 PROJECT NAME- Used bikes
 
 CONTENT-
+
+
   1]PURPOSE
   2]WORKDONE
   3]CONCLUSION
@@ -8,7 +10,9 @@ CONTENT-
   
 
 PURPOSE -
+
 1]As coming to indian economy 6.7%  people are under poverty ratio and they cant afford to buy new bikes as this data can give idea or knowledge to the people about which bike brand or bike is suitable to them 
+
 2] Normal people buy bike for there daily usage and they prefer for used bikes
 
 
@@ -35,6 +39,7 @@ WORK DONE-
 
 
 CONCLUSION-
+
 1] Brand having more demand in resale market--> Bajaj,Royal Enfield,Hero,Yamaha,Honda
 
 2] Bike with highest count in market-->Royal Enfield Classic 350cc 
